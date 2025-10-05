@@ -3,6 +3,7 @@ package com.example;
 public class Book {
     private String title;
     private String author;
+    private int x;
 
     public Book(String title, String author) {
         this.title = title;
