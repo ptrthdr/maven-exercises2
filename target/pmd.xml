@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.55.0" timestamp="2025-10-05T19:11:17.359">
-<error filename="/Users/theodor/maven-exercises2/library/src/main/java/com/example/Book.java" msg="PMDException: Error while processing /Users/theodor/maven-exercises2/library/src/main/java/com/example/Book.java">
-<![CDATA[net.sourceforge.pmd.PMDException: Error while processing /Users/theodor/maven-exercises2/library/src/main/java/com/example/Book.java
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.55.0" timestamp="2025-10-05T19:30:50.116">
+<error filename="/Users/theodor/maven-exercises2/library/src/main/java/com/example/User.java" msg="PMDException: Error while processing /Users/theodor/maven-exercises2/library/src/main/java/com/example/User.java">
+<![CDATA[net.sourceforge.pmd.PMDException: Error while processing /Users/theodor/maven-exercises2/library/src/main/java/com/example/User.java
 	at net.sourceforge.pmd.SourceCodeProcessor.processSourceCodeWithoutCache(SourceCodeProcessor.java:128)
 	at net.sourceforge.pmd.SourceCodeProcessor.processSourceCode(SourceCodeProcessor.java:100)
 	at net.sourceforge.pmd.SourceCodeProcessor.processSourceCode(SourceCodeProcessor.java:62)
@@ -30,8 +30,8 @@ Caused by: java.lang.IllegalArgumentException: Unsupported class file major vers
 	... 10 more
 ]]>
 </error>
-<error filename="/Users/theodor/maven-exercises2/library/src/main/java/com/example/User.java" msg="PMDException: Error while processing /Users/theodor/maven-exercises2/library/src/main/java/com/example/User.java">
-<![CDATA[net.sourceforge.pmd.PMDException: Error while processing /Users/theodor/maven-exercises2/library/src/main/java/com/example/User.java
+<error filename="/Users/theodor/maven-exercises2/library/src/main/java/com/example/Library.java" msg="PMDException: Error while processing /Users/theodor/maven-exercises2/library/src/main/java/com/example/Library.java">
+<![CDATA[net.sourceforge.pmd.PMDException: Error while processing /Users/theodor/maven-exercises2/library/src/main/java/com/example/Library.java
 	at net.sourceforge.pmd.SourceCodeProcessor.processSourceCodeWithoutCache(SourceCodeProcessor.java:128)
 	at net.sourceforge.pmd.SourceCodeProcessor.processSourceCode(SourceCodeProcessor.java:100)
 	at net.sourceforge.pmd.SourceCodeProcessor.processSourceCode(SourceCodeProcessor.java:62)
@@ -90,8 +90,8 @@ Caused by: java.lang.IllegalArgumentException: Unsupported class file major vers
 	... 10 more
 ]]>
 </error>
-<error filename="/Users/theodor/maven-exercises2/library/src/main/java/com/example/Library.java" msg="PMDException: Error while processing /Users/theodor/maven-exercises2/library/src/main/java/com/example/Library.java">
-<![CDATA[net.sourceforge.pmd.PMDException: Error while processing /Users/theodor/maven-exercises2/library/src/main/java/com/example/Library.java
+<error filename="/Users/theodor/maven-exercises2/library/src/main/java/com/example/Book.java" msg="PMDException: Error while processing /Users/theodor/maven-exercises2/library/src/main/java/com/example/Book.java">
+<![CDATA[net.sourceforge.pmd.PMDException: Error while processing /Users/theodor/maven-exercises2/library/src/main/java/com/example/Book.java
 	at net.sourceforge.pmd.SourceCodeProcessor.processSourceCodeWithoutCache(SourceCodeProcessor.java:128)
 	at net.sourceforge.pmd.SourceCodeProcessor.processSourceCode(SourceCodeProcessor.java:100)
 	at net.sourceforge.pmd.SourceCodeProcessor.processSourceCode(SourceCodeProcessor.java:62)
